@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Lenguajes>
+  <Castellano>
+    <Cuadrado>Cuadrado</Cuadrado>
+    <Cuadrado_Plural>Cuadrados</Cuadrado_Plural>
+    <Triangulo>Triángulo</Triangulo>
+    <Triangulo_Plural>Triángulos</Triangulo_Plural>
+    <Circulo>Círculo</Circulo>
+    <Circulo_Plural>Círculos</Circulo_Plural>
+    <Trapecio>Trapecio</Trapecio>
+    <Trapecio_Plural>Trapecios</Trapecio_Plural>
+    <Rectangulo>Rectángulo</Rectangulo>
+    <Rectangulo_Plural>Rectángulos</Rectangulo_Plural>
+    <Header>
+      <h1>Reporte de Formas</h1>
+    </Header>
+    <Header_vacio>
+      <h1>Lista vacía de formas!</h1>
+    </Header_vacio>
+    
+    <Total>TOTAL:</Total>
+    <Formas> Formas</Formas>
+    <Perimetro> | Perimetro </Perimetro>
+    <Area> | Area </Area>
+    
+    <Default>Palabra no encontrada</Default>
+  </Castellano>
+  
+  <Ingles>
+    <Cuadrado>Square</Cuadrado>
+    <Cuadrado_Plural>Squares</Cuadrado_Plural>
+    <Triangulo>Triangle</Triangulo>
+    <Triangulo_Plural>Triangles</Triangulo_Plural>
+    <Circulo>Circle</Circulo>
+    <Circulo_Plural>Circles</Circulo_Plural>
+    <Trapecio>Trapezoid</Trapecio>
+    <Trapecio_Plural>Trapezoids</Trapecio_Plural>
+    <Rectangulo>Rectangle</Rectangulo>
+    <Rectangulo_Plural>Rectangles</Rectangulo_Plural>
+    <Header>
+      <h1>Shapes report</h1>
+    </Header>
+    <Header_vacio>
+      <h1>Empty list of shapes!</h1>
+    </Header_vacio>
+
+    <Total>TOTAL:</Total>
+    <Formas> Shapes</Formas>
+    <Perimetro> | Perimeter </Perimetro>
+    <Area> | Area </Area>
+    <Default>Word not found</Default>
+  </Ingles>
+  
+  <Portugues>
+    <Cuadrado>Quadrado</Cuadrado>
+    <Cuadrado_Plural>Quadrados</Cuadrado_Plural>
+    <Triangulo>Triângulo</Triangulo>
+    <Triangulo_Plural>Triângulos</Triangulo_Plural>
+    <Circulo>Círculo</Circulo>
+    <Circulo_Plural>Círculos</Circulo_Plural>
+    <Trapecio>Trapézio</Trapecio>
+    <Trapecio_Plural>Trapézios</Trapecio_Plural>
+    <Rectangulo>Retângulo</Rectangulo>
+    <Rectangulo_Plural>Retângulos</Rectangulo_Plural>
+    <Header>
+      <h1>Relatório de formas</h1>
+    </Header>
+    <Header_vacio>
+      <h1>Lista vazia de formas!</h1>
+    </Header_vacio>
+  
+    <Total>TOTAL:</Total>
+    <Formas> Figura</Formas>
+    <Perimetro> | Perimetro </Perimetro>
+    <Area> | Area </Area>
+    
+    <Default>Palavra não encontrada</Default>
+  </Portugues>
+</Lenguajes>
