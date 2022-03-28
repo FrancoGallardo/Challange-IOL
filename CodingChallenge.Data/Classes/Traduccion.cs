@@ -14,8 +14,6 @@ namespace CodingChallenge.Data.Classes
         private const string RESOURCE_PATH = @"..\CodingChallenge\CodingChallenge.Data\Resources\Lenguajes.xml";
         XmlDocument xmlDocument = new XmlDocument();
 
-        private static Traduccion Inst_Traduccion = new Traduccion();
-
         public Traduccion()
         {
             try
@@ -25,11 +23,6 @@ namespace CodingChallenge.Data.Classes
             catch (Exception ex)
             {
             }
-        }
-
-        public static Traduccion GetInstance()
-        {
-            return Inst_Traduccion;
         }
 
         public string ObtenerTraduccion(string etiquetaXML, string idioma, bool Singular = true) 

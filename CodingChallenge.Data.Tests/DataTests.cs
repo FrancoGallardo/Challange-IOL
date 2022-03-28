@@ -196,7 +196,7 @@ namespace CodingChallenge.Data.Tests
         [TestCase]
         public void TestTraduccionIngles()
         {
-            Traduccion traduccionPruebas = Traduccion.GetInstance();
+            Traduccion traduccionPruebas = new Traduccion();
             var result = traduccionPruebas.ObtenerTraduccion("Triangulo", "Ingles");
             Assert.AreEqual("Triangle", result);
         }
@@ -204,7 +204,7 @@ namespace CodingChallenge.Data.Tests
         [TestCase]
         public void TestTraduccionCastellano()
         {
-            Traduccion traduccionPruebas = Traduccion.GetInstance();
+            Traduccion traduccionPruebas = new Traduccion();
             var result = traduccionPruebas.ObtenerTraduccion("Triangulo", "Castellano");
             Assert.AreEqual("Triángulo", result);
         }

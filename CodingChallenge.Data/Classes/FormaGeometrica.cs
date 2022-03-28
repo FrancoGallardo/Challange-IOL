@@ -107,7 +107,7 @@ namespace CodingChallenge.Data.Classes
 
         #region Anterior Sistema
 
-        #region Formas
+       /* #region Formas
 
         public int Tipo { get; set; } // Representa la forma
 
@@ -132,7 +132,7 @@ namespace CodingChallenge.Data.Classes
         {
             Tipo = tipo;
             _lado = ancho;
-        }
+        }*/
 
       /*  public static string Imprimir(List<FormaGeometrica> formas, int idioma)
         {
